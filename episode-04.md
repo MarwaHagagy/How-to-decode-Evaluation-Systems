@@ -8,7 +8,7 @@ Why did that answer tank the interview? It wasn't because your proposal was bad,
 
 **"What is the most problematic thing you see in your proposal that might hold you back from completing it?"**
 
-**What the interviewer is actually measuring: ** They are not asking you to tear down your own work, and they definitely aren't looking for a reason to reject you! They are measuring risk assessment and mitigation. Think of it like running a complex statistical model; you must account for the error variables. They want to know: Are you naive enough to think this will go perfectly, or are you seasoned enough to foresee the bottleneck and build a safety net?
+What the interviewer is actually measuring:  They are not asking you to tear down your own work, and they definitely aren't looking for a reason to reject you! They are measuring risk assessment and mitigation. Think of it like running a complex statistical model; you must account for the error variables. They want to know: Are you naive enough to think this will go perfectly, or are you seasoned enough to foresee the bottleneck and build a safety net?
 
 **Why this construct matters in academia**
 My friends, as you know, research never goes exactly according to the initial proposal. Ethics boards delay approvals, participants drop out of surveys, datasets get corrupted, or funding shifts. Academia is essentially the science of troubleshooting in real-time. If a researcher cannot identify the weakest link in their methodology before they start, a single roadblock will crash the entire multi-year project.
