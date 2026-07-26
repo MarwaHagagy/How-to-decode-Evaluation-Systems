@@ -2,7 +2,7 @@
 
 Welcome back, my friends! Just when you thought you had successfully flipped the instrument and finished the interview, there is one more hurdle that highly technical or academic panels love to throw at you.
 
-If you are a builder, a coder, or a researcher, they want to see under the hood of your brain. They don't just want to know what you achieved; they want to know *how* you constructed the methodology. Let's put our hardhats on and decode the builder's ultimate test.
+If you are a builder, a coder, or a researcher, they want to see under the hood of your brain. They don't just want to know what you achieved; they want to know *how* you constructed the methodology. Let's put our hard hats on and decode the builder's ultimate test.
 
 ### The Question
 
